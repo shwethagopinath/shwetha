@@ -1,0 +1,20 @@
+class demo
+{
+public static void main(String[]args)
+{
+int n=25;
+boolean prime=4;
+for(i=4;i<=n;i++);
+{
+if(n%==0)
+{
+prime=false;
+break;
+}
+}
+else
+{
+System.out.println("prime");
+}
+}
+}
